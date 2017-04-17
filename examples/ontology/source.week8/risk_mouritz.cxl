@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <res-meta>
+        <dc:title>risk_mouritz.cmap</dc:title>
+        <dcterms:created>2009-09-25T13:22:25+08:00</dcterms:created>
+        <dcterms:modified>2009-09-25T13:22:25+08:00</dcterms:modified>
+        <dc:language>en</dc:language>
+        <dc:format>x-cmap/x-storable</dc:format>
+        <dc:publisher>FIHMC CmapTools 5.03</dc:publisher>
+        <dc:source>cmap:1GJ53BHFB-24DWJWB-1:external-folder:file:////d:/programming/conceptmap/cmap/risk/week8/risk_mouritz.cmap</dc:source>
+    </res-meta>
+    <map width="1379" height="1397">
+        <concept-list>
+            <concept id="1240478341812_512530936_2582" label="no. Accidents per usage time"/>
+            <concept id="1240474611218_220208988_1201" label="Contingency"/>
+            <concept id="1240479887843_866864787_3422" label="Time"/>
+            <concept id="1240479334359_1741498807_2776" label="Concept Design"/>
+            <concept id="1240474611218_903505637_1266" label="Local Environment"/>
+            <concept id="1240474611218_1491556690_1217" label="Communication"/>
+            <concept id="1240474611218_1397635822_1220" label="Managment"/>
+            <concept id="1240474611218_334156480_1211" label="Natural&#xa;Caused"/>
+            <concept id="1240474611218_1369542101_1182" label="Protocols"/>
+            <concept id="1240479623250_303552382_3031" label="$$$"/>
+            <concept id="1240474611218_1868274565_1235" label="maintenance"/>
+            <concept id="1240479763796_1708427592_3239" label="Feasability"/>
+            <concept id="1240474611218_291218919_1226" label="HAZARDS"/>
+            <concept id="1240479312281_1805191960_2728" label="Assesed"/>
+            <concept id="1240474611218_979325651_1272" label="Disasters"/>
+            <concept id="1240474611218_252522033_1257" label="Nearby &#xa;Industries"/>
+            <concept id="1240479772687_1550961008_3266" label="Affect"/>
+            <concept id="1240479348921_2078624668_2817" label="Post &#xa;incidents"/>
+            <concept id="1240479636578_1385899697_3068" label="Safety"/>
+            <concept id="1240474611218_50833286_1238" label="Design"/>
+            <concept id="1240474611218_409202156_1263" label="Economics"/>
+            <concept id="1240474611218_1543385308_1189" label="Contractors"/>
+            <concept id="1240474644546_295173253_1731" label="Quantitavely"/>
+            <concept id="1240479415187_492215815_2899" label="Feed &amp; Detail &#xa;Design"/>
+            <concept id="1240474669000_223940588_1787" label="Qualitively"/>
+            <concept id="1240474611218_1176656851_1223" label="Geographics"/>
+            <concept id="1240474611218_907474233_1250" label="Concerned&#xa;Parties"/>
+            <concept id="1240479605171_2063748137_2985" label="Acceptable"/>
+            <concept id="1240474611218_334519246_1229" label="ENGINEERS"/>
+            <concept id="1240474611218_1372267789_1198" label="Planning"/>
+            <concept id="1240478938593_1992574092_2639" label="All stages of&#xa;Life cycle"/>
+            <concept id="1240479728156_1548366111_3194" label="Percieved"/>
+            <concept id="1240474611218_2033489156_1244" label="Accidents"/>
+            <concept id="1240474611218_668637926_1214" label="Authorities"/>
+            <concept id="1240479370437_519824177_2851" label="Before &#xa;Modifications"/>
+            <concept id="1240478280109_1942442713_2511" label="Deaths per hours worked"/>
+            <concept id="1240478193609_1147907829_2452" label="Hazop"/>
+            <concept id="1240474611218_1669220961_1192" label="Operations&#xa;/Staff"/>
+            <concept id="1240474611218_1454469207_1204" label="probability of&#xa;Event occuring"/>
+            <concept id="1240474611218_3220352_1195" label="Specialists"/>
+            <concept id="1240474611218_108528533_1241" label=""/>
+            <concept id="1240474611218_885314522_1260" label="RISK"/>
+            <concept id="1240474672562_347270964_1802" label="Semi quantitavely"/>
+            <concept id="1240474611218_741502816_1247" label="Identification"/>
+            <concept id="1240477431343_1978504858_1934" label="consequence/frequency &#xa;matrix"/>
+            <concept id="1240477531343_848454963_2013" label="Standard Hazard&#xa;Index's "/>
+            <concept id="1240474611218_108859688_1232" label="Residents"/>
+            <concept id="1240474611218_999133512_1275" label="Experience"/>
+            <concept id="1240479709203_893567523_3154" label="Real"/>
+            <concept id="1240477592062_1156458909_2080" label="Qualative Risk &#xa;Assesment"/>
+            <concept id="1240477619234_1939408970_2132" label="Analysed By:"/>
+            <concept id="1240477756125_1465824247_2237" label="Impact of &#xa;event"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="1240479636578_2014032553_3071" label="With"/>
+            <linking-phrase id="1240479605187_978999527_2988" label="Is Often"/>
+            <linking-phrase id="1240479334359_1079226761_2779" label="When"/>
+            <linking-phrase id="1240479312281_932372574_2731" label="Needs to be"/>
+            <linking-phrase id="1240474611234_1523628083_1418" label="????"/>
+            <linking-phrase id="1240474611234_52510718_1505" label="Includes"/>
+            <linking-phrase id="1240479709203_1152824858_3157" label="Can be"/>
+            <linking-phrase id="1240480626515_892713117_4917" label="Not&#xa;Always&#xa;="/>
+            <linking-phrase id="1240478280109_1158615640_2514" label="Units e.g."/>
+            <linking-phrase id="1240479887843_1614238412_3425" label="Better&#xa;Understood"/>
+            <linking-phrase id="1240478938609_874261313_2642" label="Associated with"/>
+            <linking-phrase id="1240474611234_1628060935_1448" label="Mitigated By"/>
+            <linking-phrase id="1240478193609_661728396_2455" label="????"/>
+            <linking-phrase id="1240479776000_255324542_3281" label="????"/>
+            <linking-phrase id="1240474611234_980706014_1526" label="Increases with"/>
+            <linking-phrase id="1240474611218_766528167_1399" label="Help Prevent"/>
+            <linking-phrase id="1240474611218_83479929_1361" label="Includes"/>
+            <linking-phrase id="1240479763796_387420904_3242" label="????"/>
+            <linking-phrase id="1240474644546_2124043789_1735" label="Can be analysed"/>
+            <linking-phrase id="1240477531343_1040961262_2016" label="????"/>
+            <linking-phrase id="1240477592062_2136209725_2083" label="????"/>
+            <linking-phrase id="1240474611218_1485747413_1284" label="Includes"/>
+            <linking-phrase id="1240477431343_1298518005_1937" label="Analysed by"/>
+            <linking-phrase id="1240474611218_2034061493_1316" label="Between"/>
+            <linking-phrase id="1240479623250_387681233_3034" label="Because"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection id="1240479605187_2006339813_2996" from-id="1240479605187_978999527_2988" to-id="1240479605171_2063748137_2985"/>
+            <connection id="1240474611218_1263074580_1319" from-id="1240474611218_2034061493_1316" to-id="1240474611218_668637926_1214"/>
+            <connection id="1240480709562_157900160_5065" from-id="1240480626515_892713117_4917" to-id="1240479709203_893567523_3154"/>
+            <connection id="1240479348921_275500577_2820" from-id="1240479334359_1079226761_2779" to-id="1240479348921_2078624668_2817"/>
+            <connection id="1240479763796_482035039_3251" from-id="1240479763796_387420904_3242" to-id="1240479763796_1708427592_3239"/>
+            <connection id="1240474611234_69503133_1407" from-id="1240474611218_334519246_1229" to-id="1240474611218_766528167_1399"/>
+            <connection id="1240477531359_1399217859_2019" from-id="1240474672562_347270964_1802" to-id="1240477531343_1040961262_2016"/>
+            <connection id="1240479334359_1956034067_2782" from-id="1240479312281_1805191960_2728" to-id="1240479334359_1079226761_2779"/>
+            <connection id="1240477592062_1208601455_2086" from-id="1240474644546_295173253_1731" to-id="1240477592062_2136209725_2083"/>
+            <connection id="1240474611218_345262406_1372" from-id="1240474611218_1176656851_1223" to-id="1240474611218_83479929_1361"/>
+            <connection id="1240474611234_1619708337_1520" from-id="1240474611234_980706014_1526" to-id="1240474611218_1454469207_1204"/>
+            <connection id="1240474611234_13711865_1461" from-id="1240474611234_1628060935_1448" to-id="1240474611218_1372267789_1198"/>
+            <connection id="1240474611218_1794979105_1339" from-id="1240474611218_2034061493_1316" to-id="1240474611218_1543385308_1189"/>
+            <connection id="1240474611234_1392814215_1515" from-id="1240474611218_885314522_1260" to-id="1240474611234_52510718_1505"/>
+            <connection id="1240479776015_1348663924_3290" from-id="1240479776000_255324542_3281" to-id="1240479772687_1550961008_3266"/>
+            <connection id="1240477592062_1550751889_2092" from-id="1240477592062_2136209725_2083" to-id="1240477592062_1156458909_2080"/>
+            <connection id="1240478341812_1918017934_2585" from-id="1240478280109_1158615640_2514" to-id="1240478341812_512530936_2582"/>
+            <connection id="1240474611218_1453391551_1278" from-id="1240474611218_1485747413_1284" to-id="1240474611218_1176656851_1223"/>
+            <connection id="1240474611234_1509153579_1475" from-id="1240474611218_885314522_1260" to-id="1240474611234_1628060935_1448"/>
+            <connection id="1240474611218_852705151_1298" from-id="1240474611218_1485747413_1284" to-id="1240474611218_220208988_1201"/>
+            <connection id="1240474611218_448701913_1367" from-id="1240474611218_83479929_1361" to-id="1240474611218_903505637_1266"/>
+            <connection id="1240474644546_1571066215_1743" from-id="1240474644546_2124043789_1735" to-id="1240474644546_295173253_1731"/>
+            <connection id="1240474611218_499511179_1329" from-id="1240474611218_2034061493_1316" to-id="1240474611218_3220352_1195"/>
+            <connection id="1240474672562_1148807706_1805" from-id="1240474644546_2124043789_1735" to-id="1240474672562_347270964_1802"/>
+            <connection id="1240479709203_1347210631_3165" from-id="1240479709203_1152824858_3157" to-id="1240479709203_893567523_3154"/>
+            <connection id="1240474611218_2127244980_1324" from-id="1240474611218_2034061493_1316" to-id="1240474611218_1669220961_1192"/>
+            <connection id="1240474611218_481580072_1344" from-id="1240474611218_2034061493_1316" to-id="1240474611218_252522033_1257"/>
+            <connection id="1240479776015_134153728_3284" from-id="1240479709203_893567523_3154" to-id="1240479776000_255324542_3281"/>
+            <connection id="1240474611218_1615989543_1334" from-id="1240474611218_2034061493_1316" to-id="1240474611218_1397635822_1220"/>
+            <connection id="1240474611234_834987761_1465" from-id="1240474611234_1628060935_1448" to-id="1240474611218_1491556690_1217"/>
+            <connection id="1240474644546_1594771172_1738" from-id="1240474611218_885314522_1260" to-id="1240474644546_2124043789_1735"/>
+            <connection id="1240477943687_1583350904_2350" from-id="1240474611218_766528167_1399" to-id="1240474611218_291218919_1226"/>
+            <connection id="1240479623250_1965842229_3037" from-id="1240479605171_2063748137_2985" to-id="1240479623250_387681233_3034"/>
+            <connection id="1240480626515_335354284_4920" from-id="1240479728156_1548366111_3194" to-id="1240480626515_892713117_4917"/>
+            <connection id="1240474611234_1535399006_1442" from-id="1240474611234_1628060935_1448" to-id="1240474611218_50833286_1238"/>
+            <connection id="1240479887843_1843486698_3428" from-id="1240474611218_885314522_1260" to-id="1240479887843_1614238412_3425"/>
+            <connection id="1240479709203_1879105470_3160" from-id="1240474611218_885314522_1260" to-id="1240479709203_1152824858_3157"/>
+            <connection id="1240477756125_1694687840_2240" from-id="1240474611234_980706014_1526" to-id="1240477756125_1465824247_2237"/>
+            <connection id="1240474611234_518057818_1529" from-id="1240474611218_885314522_1260" to-id="1240474611234_980706014_1526"/>
+            <connection id="1240478280109_1358193574_2517" from-id="1240474611218_885314522_1260" to-id="1240478280109_1158615640_2514"/>
+            <connection id="1240474611234_14518843_1507" from-id="1240474611234_52510718_1505" to-id="1240474611218_2033489156_1244"/>
+            <connection id="1240474611218_1857319005_1363" from-id="1240474611218_83479929_1361" to-id="1240474611218_108859688_1232"/>
+            <connection id="1240474611218_612231662_1349" from-id="1240474611218_1491556690_1217" to-id="1240474611218_2034061493_1316"/>
+            <connection id="1240474611218_1906754296_1355" from-id="1240474611218_83479929_1361" to-id="1240474611218_252522033_1257"/>
+            <connection id="1240479887843_1956513382_3433" from-id="1240479887843_1614238412_3425" to-id="1240479887843_866864787_3422"/>
+            <connection id="1240477431359_2126274390_1946" from-id="1240477431343_1298518005_1937" to-id="1240477431343_1978504858_1934"/>
+            <connection id="1240474611218_99742761_1310" from-id="1240474611218_2034061493_1316" to-id="1240474611218_108859688_1232"/>
+            <connection id="1240479636578_2097418521_3074" from-id="1240479605171_2063748137_2985" to-id="1240479636578_2014032553_3071"/>
+            <connection id="1240474611234_1798194261_1421" from-id="1240474611218_50833286_1238" to-id="1240474611234_1523628083_1418"/>
+            <connection id="1240479312281_2097373379_2739" from-id="1240479312281_932372574_2731" to-id="1240479312281_1805191960_2728"/>
+            <connection id="1240479334359_211770534_2788" from-id="1240479334359_1079226761_2779" to-id="1240479334359_1741498807_2776"/>
+            <connection id="1240474611234_24550430_1412" isBidirectional="true" from-id="1240474611234_1523628083_1418" to-id="1240474611218_1372267789_1198"/>
+            <connection id="1240474611218_2097133234_1293" from-id="1240474611218_1485747413_1284" to-id="1240474611218_409202156_1263"/>
+            <connection id="1240478280109_1042125352_2522" from-id="1240478280109_1158615640_2514" to-id="1240478280109_1942442713_2511"/>
+            <connection id="1240474611234_831515787_1511" from-id="1240474611234_52510718_1505" to-id="1240474611218_334156480_1211"/>
+            <connection id="1240477431343_1232902857_1940" from-id="1240474669000_223940588_1787" to-id="1240477431343_1298518005_1937"/>
+            <connection id="1240479415187_1590782131_2902" from-id="1240479334359_1079226761_2779" to-id="1240479415187_492215815_2899"/>
+            <connection id="1240474611234_621839527_1456" from-id="1240474611234_1628060935_1448" to-id="1240474611218_1868274565_1235"/>
+            <connection id="1240479370453_1507963449_2854" from-id="1240479334359_1079226761_2779" to-id="1240479370437_519824177_2851"/>
+            <connection id="1240478193609_1032136215_2458" from-id="1240474669000_223940588_1787" to-id="1240478193609_661728396_2455"/>
+            <connection id="1240479772687_2042891841_3269" from-id="1240479763796_387420904_3242" to-id="1240479772687_1550961008_3266"/>
+            <connection id="1240474611234_111320266_1470" from-id="1240474611234_1628060935_1448" to-id="1240474611218_741502816_1247"/>
+            <connection id="1240474669000_1197432333_1790" from-id="1240474644546_2124043789_1735" to-id="1240474669000_223940588_1787"/>
+            <connection id="1240474611234_224082431_1451" from-id="1240474611234_1628060935_1448" to-id="1240474611218_999133512_1275"/>
+            <connection id="1240479636578_951652161_3079" from-id="1240479636578_2014032553_3071" to-id="1240479636578_1385899697_3068"/>
+            <connection id="1240478193609_954502449_2463" from-id="1240478193609_661728396_2455" to-id="1240478193609_1147907829_2452"/>
+            <connection id="1240477531359_2001910019_2024" from-id="1240477531343_1040961262_2016" to-id="1240477531343_848454963_2013"/>
+            <connection id="1240479605187_1016237300_2991" from-id="1240474611218_885314522_1260" to-id="1240479605187_978999527_2988"/>
+            <connection id="1240474611234_63333667_1499" from-id="1240474611234_52510718_1505" to-id="1240474611218_979325651_1272"/>
+            <connection id="1240479728156_1289023699_3197" from-id="1240479709203_1152824858_3157" to-id="1240479728156_1548366111_3194"/>
+            <connection id="1240479763796_1920887009_3245" from-id="1240479728156_1548366111_3194" to-id="1240479763796_387420904_3242"/>
+            <connection id="1240478938609_1178084065_2650" from-id="1240478938609_874261313_2642" to-id="1240478938593_1992574092_2639"/>
+            <connection id="1240479312281_815855675_2734" from-id="1240474611218_885314522_1260" to-id="1240479312281_932372574_2731"/>
+            <connection id="1240474611218_569028641_1303" from-id="1240474611218_1372267789_1198" to-id="1240474611218_1485747413_1284"/>
+            <connection id="1240479623250_962012431_3043" from-id="1240479623250_387681233_3034" to-id="1240479623250_303552382_3031"/>
+            <connection id="1240478938609_1354374444_2645" from-id="1240474611218_885314522_1260" to-id="1240478938609_874261313_2642"/>
+            <connection id="1240474611218_240545290_1288" from-id="1240474611218_1485747413_1284" to-id="1240474611218_1369542101_1182"/>
+        </connection-list>
+        <concept-appearance-list>
+            <concept-appearance id="1240478341812_512530936_2582" x="1238" y="805" width="192" height="28" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240474611218_220208988_1201" x="126" y="1077" width="103" height="29" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-right" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240479887843_866864787_3422" x="587" y="770" width="46" height="25" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240479334359_1741498807_2776" x="984" y="395" width="110" height="27" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240474611218_903505637_1266" x="384" y="1223" width="128" height="25" font-size="12" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_1491556690_1217" x="976" y="944" width="110" height="25" background-color="255,255,255,255" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_1397635822_1220" x="796" y="1262" width="99" height="29" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-left" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_334156480_1211" x="144" y="780" width="60" height="40" background-color="255,255,255,255" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_1369542101_1182" x="177" y="1225" width="80" height="27" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-left" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240479623250_303552382_3031" x="1196" y="614" width="39" height="27" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240474611218_1868274565_1235" x="717" y="909" width="93" height="25" background-color="255,255,255,255" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240479763796_1708427592_3239" x="1195" y="1072" width="80" height="28" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240474611218_291218919_1226" x="249" y="789" width="308" min-width="308" height="93" min-height="93" font-size="14" font-color="255,100,0,255" background-color="236,233,216,0" border-style="dotted"
+                border-shape="rectangle" text-alignment="bottom-right" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240479312281_1805191960_2728" x="1003" y="574" width="65" height="25" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240474611218_979325651_1272" x="257" y="779" width="72" height="25" background-color="255,255,255,255" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_252522033_1257" x="626" y="1221" width="87" height="44" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-left" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240479772687_1550961008_3266" x="1199" y="998" width="51" height="25" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240479348921_2078624668_2817" x="1084" y="427" width="70" height="39" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240479636578_1385899697_3068" x="1212" y="677" width="55" height="28" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240474611218_50833286_1238" x="829" y="926" width="57" height="27" background-color="255,255,255,255" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_409202156_1263" x="78" y="1168" width="90" height="26" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-left" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_1543385308_1189" x="838" y="1188" width="98" height="27" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-left" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474644546_295173253_1731" x="412" y="482" width="92" height="28"/>
+            <concept-appearance id="1240479415187_492215815_2899" x="956" y="459" width="101" height="42" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240474669000_223940588_1787" x="636" y="494" width="79" height="28"/>
+            <concept-appearance id="1240474611218_1176656851_1223" x="420" y="1076" width="103" height="30" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-right" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_907474233_1250" x="714" y="1064" width="90" height="53" font-size="12" font-color="0,0,0,255" background-color="236,233,216,0" border-color="236,233,216,0" border-style="dotted" border-shape="oval"
+                text-alignment="bottom" stylesheet-id="1236580560265_1056886852_16079">
+                <localized-style begin="0" end="17" font-color="255,100,0,255"/>
+            </concept-appearance>
+            <concept-appearance id="1240479605171_2063748137_2985" x="1050" y="664" width="81" height="28" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240474611218_334519246_1229" x="799" y="930" width="489" min-width="489" height="186" min-height="186" font-size="14" font-color="50,100,255,255" background-color="236,233,216,0" border-style="dotted"
+                border-shape="rectangle" text-alignment="top-left" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_1372267789_1198" x="752" y="975" width="67" height="28" background-color="255,255,255,255" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240478938593_1992574092_2639" x="508" y="634" width="90" height="42" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240479728156_1548366111_3194" x="1113" y="923" width="74" height="25" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240474611218_2033489156_1244" x="361" y="769" width="73" height="25" background-color="255,255,255,255" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_668637926_1214" x="820" y="1127" width="92" height="27" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-right" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240479370437_519824177_2851" x="1158" y="481" width="94" height="40" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240478280109_1942442713_2511" x="1248" y="714" width="168" height="28" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240478193609_1147907829_2452" x="565" y="333" width="53" height="27" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240474611218_1669220961_1192" x="696" y="1294" width="93" height="45" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-left" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_1454469207_1204" x="719" y="453" width="105" height="42" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_3220352_1195" x="690" y="1145" width="90" height="29" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-left" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_108528533_1241" x="707" y="1200" width="425" min-width="297" height="304" min-height="217" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4"
+                background-color="236,233,216,0" background-image-style="full" border-color="0,0,0,255" border-style="dotted" border-thickness="1" border-shape="oval" text-alignment="bottom-left" shadow-color="none"/>
+            <concept-appearance id="1240474611218_885314522_1260" x="789" y="679" width="46" height="25" background-color="255,150,0,255" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474672562_347270964_1802" x="508" y="424" width="125" height="28"/>
+            <concept-appearance id="1240474611218_741502816_1247" x="622" y="973" width="95" height="25" background-color="255,255,255,255" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240477431343_1978504858_1934" x="635" y="256" width="163" min-width="121" height="42" min-height="34"/>
+            <concept-appearance id="1240477531343_848454963_2013" x="439" y="269" width="118" height="40"/>
+            <concept-appearance id="1240474611218_108859688_1232" x="569" y="1170" width="84" height="27" font-size="14" font-color="0,0,0,255" background-color="255,255,255,255" border-style="solid" border-shape="rounded-rectangle"
+                text-alignment="bottom-right" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240474611218_999133512_1275" x="897" y="998" width="82" height="27" background-color="255,255,255,255" stylesheet-id="1236580560265_1056886852_16079"/>
+            <concept-appearance id="1240479709203_893567523_3154" x="1285" y="920" width="42" height="25" border-style="solid" text-alignment="bottom"/>
+            <concept-appearance id="1240477592062_1156458909_2080" x="341" y="342" width="106" height="40"/>
+            <concept-appearance id="1240477619234_1939408970_2132" x="501" y="295" width="492" min-width="484" height="159" min-height="151" background-color="236,233,216,0" border-style="dashed" text-alignment="top-left"/>
+            <concept-appearance id="1240477756125_1465824247_2237" x="840" y="427" width="78" height="40" border-style="solid" text-alignment="center"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase-appearance id="1240479636578_2014032553_3071" x="1130" y="671" width="29" height="11" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240479605187_978999527_2988" x="919" y="671" width="51" height="11" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240479334359_1079226761_2779" x="1026" y="527" width="36" height="11" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240479312281_932372574_2731" x="896" y="626" width="74" height="11" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240474611234_1523628083_1418" x="826" y="935" width="32" height="11" font-size="12" font-style="italic" stylesheet-id="1236580560265_1056886852_16079"/>
+            <linking-phrase-appearance id="1240474611234_52510718_1505" x="446" y="714" width="56" height="11" font-size="12" font-style="italic" stylesheet-id="1236580560265_1056886852_16079"/>
+            <linking-phrase-appearance id="1240479709203_1152824858_3157" x="1134" y="847" width="44" height="11" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240480626515_892713117_4917" x="1188" y="923" width="44" height="38" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240478280109_1158615640_2514" x="1042" y="756" width="60" height="13" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240479887843_1614238412_3425" x="688" y="724" width="71" height="25" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240478938609_874261313_2642" x="665" y="657" width="96" height="11" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240474611234_1628060935_1448" x="785" y="736" width="80" height="14" font-style="italic" stylesheet-id="1236580560265_1056886852_16079"/>
+            <linking-phrase-appearance id="1240478193609_661728396_2455" x="629" y="493" width="28" height="11" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240479776000_255324542_3281" x="1282" y="924" width="28" height="11" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240474611234_980706014_1526" x="770" y="580" width="90" height="11" font-size="12" font-style="plain" stylesheet-id="1236580560265_1056886852_16079"/>
+            <linking-phrase-appearance id="1240474611218_766528167_1399" x="468" y="830" width="83" height="14" font-size="12" font-style="italic" stylesheet-id="1236580560265_1056886852_16079"/>
+            <linking-phrase-appearance id="1240474611218_83479929_1361" x="421" y="1119" width="56" height="11" font-size="12" font-style="italic" stylesheet-id="1236580560265_1056886852_16079"/>
+            <linking-phrase-appearance id="1240479763796_387420904_3242" x="1195" y="1004" width="28" height="11" font-size="12" font-style="plain"/>
+            <linking-phrase-appearance id="1240474644546_2124043789_1735" x="547" y="562" width="102" height="14"/>
+            <linking-phrase-appearance id="1240477531343_1040961262_2016" x="505" y="420" width="28" height="11"/>
+            <linking-phrase-appearance id="1240477592062_2136209725_2083" x="409" y="481" width="28" height="11"/>
+            <linking-phrase-appearance id="1240474611218_1485747413_1284" x="292" y="1054" width="56" height="11" font-size="12" font-style="italic" stylesheet-id="1236580560265_1056886852_16079"/>
+            <linking-phrase-appearance id="1240477431343_1298518005_1937" x="637" y="496" width="75" height="14"/>
+            <linking-phrase-appearance id="1240474611218_2034061493_1316" x="830" y="1044" width="57" height="11" font-size="12" font-style="italic" stylesheet-id="1236580560265_1056886852_16079"/>
+            <linking-phrase-appearance id="1240479623250_387681233_3034" x="1123" y="639" width="52" height="11" font-size="12" font-style="plain"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance id="1240479605187_2006339813_2996" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611218_1263074580_1319" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240480709562_157900160_5065" from-pos="center" to-pos="left" arrowhead="if-to-concept-and-slopes-up"/>
+            <connection-appearance id="1240479348921_275500577_2820" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240479763796_482035039_3251" from-pos="center" to-pos="center" arrowhead="yes"/>
+            <connection-appearance id="1240474611234_69503133_1407" from-pos="top-left" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240477531359_1399217859_2019" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240479334359_1956034067_2782" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240477592062_1208601455_2086" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611218_345262406_1372" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611234_1619708337_1520" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611234_13711865_1461" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611218_1794979105_1339" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611234_1392814215_1515" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240479776015_1348663924_3290" from-pos="center" to-pos="top" arrowhead="if-to-concept-and-slopes-up"/>
+            <connection-appearance id="1240477592062_1550751889_2092" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240478341812_1918017934_2585" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611218_1453391551_1278" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611234_1509153579_1475" from-pos="center" to-pos="center" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611218_852705151_1298" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611218_448701913_1367" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474644546_1571066215_1743" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611218_499511179_1329" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474672562_1148807706_1805" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240479709203_1347210631_3165" from-pos="center" to-pos="center" arrowhead="yes"/>
+            <connection-appearance id="1240474611218_2127244980_1324" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611218_481580072_1344" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240479776015_134153728_3284" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611218_1615989543_1334" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611234_834987761_1465" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474644546_1594771172_1738" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240477943687_1583350904_2350" from-pos="center" to-pos="bottom-right" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240479623250_1965842229_3037" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240480626515_335354284_4920" from-pos="center" to-pos="center" arrowhead="if-to-concept-and-slopes-up"/>
+            <connection-appearance id="1240474611234_1535399006_1442" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240479887843_1843486698_3428" from-pos="center" to-pos="center" arrowhead="if-to-concept-and-slopes-up"/>
+            <connection-appearance id="1240479709203_1879105470_3160" from-pos="center" to-pos="center" arrowhead="yes"/>
+            <connection-appearance id="1240477756125_1694687840_2240" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611234_518057818_1529" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240478280109_1358193574_2517" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611234_14518843_1507" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611218_1857319005_1363" from-pos="center" to-pos="top" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611218_612231662_1349" from-pos="center" to-pos="center" type="bezier-3pt" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079">
+                <control-point x="967" y="1046"/>
+            </connection-appearance>
+            <connection-appearance id="1240474611218_1906754296_1355" from-pos="center" to-pos="bottom-left" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240479887843_1956513382_3433" from-pos="center" to-pos="center" arrowhead="if-to-concept-and-slopes-up"/>
+            <connection-appearance id="1240477431359_2126274390_1946" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611218_99742761_1310" from-pos="bottom" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240479636578_2097418521_3074" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611234_1798194261_1421" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240479312281_2097373379_2739" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240479334359_211770534_2788" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611234_24550430_1412" from-pos="center" to-pos="top-right" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474611218_2097133234_1293" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240478280109_1042125352_2522" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611234_831515787_1511" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240477431343_1232902857_1940" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240479415187_1590782131_2902" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611234_621839527_1456" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240479370453_1507963449_2854" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240478193609_1032136215_2458" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240479772687_2042891841_3269" from-pos="center" to-pos="center" arrowhead="yes"/>
+            <connection-appearance id="1240474611234_111320266_1470" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240474669000_1197432333_1790" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611234_224082431_1451" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240479636578_951652161_3079" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240478193609_954502449_2463" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240477531359_2001910019_2024" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240479605187_1016237300_2991" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611234_63333667_1499" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+            <connection-appearance id="1240479728156_1289023699_3197" from-pos="center" to-pos="center" arrowhead="yes"/>
+            <connection-appearance id="1240479763796_1920887009_3245" from-pos="center" to-pos="center" arrowhead="yes"/>
+            <connection-appearance id="1240478938609_1178084065_2650" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240479312281_815855675_2734" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611218_569028641_1303" from-pos="center" to-pos="center" type="bezier-3pt" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079">
+                <control-point x="395" y="1044"/>
+            </connection-appearance>
+            <connection-appearance id="1240479623250_962012431_3043" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240478938609_1354374444_2645" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1240474611218_240545290_1288" from-pos="center" to-pos="center" arrowhead="if-to-concept" stylesheet-id="1236580560265_1056886852_16079"/>
+        </connection-appearance-list>
+        <style-sheet-list>
+            <style-sheet id="_Default_">
+                <map-style background-color="255,255,255,0" image-style="full" image-top-left="0,0"/>
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" background-image-style="full" border-color="0,0,0,255" border-style="solid" border-thickness="1"
+                    border-shape="rounded-rectangle" text-alignment="center" shadow-color="none"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,0" border-style="solid" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="_LatestChanges_">
+                <concept-style border-style="solid" text-alignment="bottom"/>
+                <linking-phrase-style font-size="12" font-style="plain"/>
+                <connection-style arrowhead="if-to-concept-and-slopes-up"/>
+            </style-sheet>
+            <style-sheet id="1236580560265_1056886852_16079">
+                <map-style background-color="255,255,255,0" background-image="1236580560265_1056886852_16079:map:background-image" image-style="full" image-top-left="0,0" image-bottom-right="686,436"/>
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" background-image-style="full" border-color="0,0,0,255" border-style="solid" border-thickness="1"
+                    border-shape="rounded-rectangle" text-alignment="center" shadow-color="none"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,0" border-style="solid" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+        </style-sheet-list>
+        <extra-graphical-properties-list>
+            <properties-list id="file:////d:/programming/conceptmap/cmap/risk/week8/risk_mouritz.cmap">
+                <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @"/>
+            </properties-list>
+        </extra-graphical-properties-list>
+        <image-list>
+            <image id="1236580560265_1056886852_16079:map:background-image" bytes="/9j/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAG0Aq4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+Vf+Co/wDyYn8Tf+4Z/wCnS0r6qr5V/wCCo/8AyYn8Tf8AuGf+nS0r5Ti3/knsx/681f8A0iR8pxb/AMk9mP8A15q/+kSPqqiiivqz6sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAr5V/wCCo/8AyYn8Tf8AuGf+nS0r6qr5V/4Kj/8AJifxN/7hn/p0tK+U4t/5J7Mf+vNX/wBIkfKcW/8AJPZj/wBeav8A6RI+qqKKK+rPqwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvlX/gqP/wAmJ/E3/uGf+nS0r6qr5V/4Kj/8mJ/E3/uGf+nS0r5Ti3/knsx/681f/SJHynFv/JPZj/15q/8ApEj6qooor6s+rCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+Vf+Co//JifxN/7hn/p0tK+qq+Vf+Co/wDyYn8Tf+4Z/wCnS0r5Ti3/AJJ7Mf8ArzV/9IkfKcW/8k9mP/Xmr/6RI+qqKKK+rPqwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvlX/gqP8A8mJ/E3/uGf8Ap0tK+qq+Vf8AgqP/AMmJ/E3/ALhn/p0tK+U4t/5J7Mf+vNX/ANIkfKcW/wDJPZj/ANeav/pEj6qooor6s+rCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+Vf8AgqP/AMmJ/E3/ALhn/p0tK+qq+Vf+Co//ACYn8Tf+4Z/6dLSvlOLf+SezH/rzV/8ASJHynFv/ACT2Y/8AXmr/AOkSPqqiiivqz6sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAr5V/4Kj/8AJifxN/7hn/p0tK+qq+Vf+Co//JifxN/7hn/p0tK+U4t/5J7Mf+vNX/0iR8pxb/yT2Y/9eav/AKRI+qqKKK+rPqwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvlX/gqP/yYn8Tf+4Z/6dLSvqqvlX/gqP8A8mJ/E3/uGf8Ap0tK+U4t/wCSezH/AK81f/SJHynFv/JPZj/15q/+kSPqqiiivqz6sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAr5V/4Kj/APJifxN/7hn/AKdLSvqqvlX/AIKj/wDJifxN/wC4Z/6dLSvlOLf+SezH/rzV/wDSJHynFv8AyT2Y/wDXmr/6RI+qqKKK+rPqwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvlX/AIKj/wDJifxN/wC4Z/6dLSvqqvlX/gqP/wAmJ/E3/uGf+nS0r5Ti3/knsx/681f/AEiR8pxb/wAk9mP/AF5q/wDpEj6qooor6s+rCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+Vf+Co//ACYn8Tf+4Z/6dLSvqqvlX/gqP/yYn8Tf+4Z/6dLSvlOLf+SezH/rzV/9IkfKcW/8k9mP/Xmr/wCkSPqqiiivqz6sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAr5V/4Kj/8mJ/E3/uGf+nS0r6qr5V/4Kj/APJifxN/7hn/AKdLSvlOLf8Aknsx/wCvNX/0iR8pxb/yT2Y/9eav/pEj6qooor6s+rCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+Vf+Co/wDyYn8Tf+4Z/wCnS0r6qr5V/wCCo/8AyYn8Tf8AuGf+nS0r5Ti3/knsx/681f8A0iR8pxb/AMk9mP8A15q/+kSPqqiiivqz6sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAr5V/wCCo/8AyYn8Tf8AuGf+nS0r6qr5V/4Kj/8AJifxN/7hn/p0tK+U4t/5J7Mf+vNX/wBIkfKcW/8AJPZj/wBeav8A6RI+qqKKK+rPqwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvlX/gqP/wAmJ/E3/uGf+nS0r6qr5V/4Kj/8mJ/E3/uGf+nS0r5Ti3/knsx/681f/SJHynFv/JPZj/15q/8ApEj6qooor6s+rCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+Vf+Co//JifxN/7hn/p0tK+qq+Vf+Co/wDyYn8Tf+4Z/wCnS0r5Ti3/AJJ7Mf8ArzV/9IkfKcW/8k9mP/Xmr/6RI+qqKKK+rPqwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvlX/gqP8A8mJ/E3/uGf8Ap0tK+qq+Vf8AgqP/AMmJ/E3/ALhn/p0tK+U4t/5J7Mf+vNX/ANIkfKcW/wDJPZj/ANeav/pEj6qooor6s+rCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+Vf8AgqP/AMmJ/E3/ALhn/p0tK+qq+Vf+Co//ACYn8Tf+4Z/6dLSvlOLf+SezH/rzV/8ASJHynFv/ACT2Y/8AXmr/AOkSPqqiiivqz6sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAr5V/4Kj/8AJifxN/7hn/p0tK+qq+Vf+Co//JifxN/7hn/p0tK+U4t/5J7Mf+vNX/0iR8pxb/yT2Y/9eav/AKRI+qqKKK+rPqwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvlX/gqP/yYn8Tf+4Z/6dLSvqqvlX/gqP8A8mJ/E3/uGf8Ap0tK+U4t/wCSezH/AK81f/SJHynFv/JPZj/15q/+kSPqqiiivqz6sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAr5V/4Kj/APJifxN/7hn/AKdLSvqqvlX/AIKj/wDJifxN/wC4Z/6dLSvlOLf+SezH/rzV/wDSJHynFv8AyT2Y/wDXmr/6RI+qqKKK+rPqwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvlX/AIKj/wDJifxN/wC4Z/6dLSvqqvlX/gqP/wAmJ/E3/uGf+nS0r5Ti3/knsx/681f/AEiR8pxb/wAk9mP/AF5q/wDpEj6qooor6s+rCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+Vf+Co//ACYn8Tf+4Z/6dLSvqqvlX/gqP/yYn8Tf+4Z/6dLSvlOLf+SezH/rzV/9IkfKcW/8k9mP/Xmr/wCkSPqqiiivqz6sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAr5V/4Kj/8mJ/E3/uGf+nS0r6qr5V/4Kj/APJifxN/7hn/AKdLSvlOLf8Aknsx/wCvNX/0iR8pxb/yT2Y/9eav/pEj6qooor6s+rCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+Vf+Co/wDyYn8Tf+4Z/wCnS0r6qr5V/wCCo/8AyYn8Tf8AuGf+nS0r5Ti3/knsx/681f8A0iR8pxb/AMk9mP8A15q/+kSPqqiiivqz6sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAr5V/wCCo/8AyYn8Tf8AuGf+nS0r6qr5V/4Kj/8AJifxN/7hn/p0tK+U4t/5J7Mf+vNX/wBIkfKcW/8AJPZj/wBeav8A6RI+qqKKK+rPqwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvlX/gqP/wAmJ/E3/uGf+nS0r6qr5V/4Kj/8mJ/E3/uGf+nS0r5Ti3/knsx/681f/SJHynFv/JPZj/15q/8ApEj6qooor6s+rCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK+Vf+Co//JifxN/7hn/p0tK+qq+Vf+Co/wDyYn8Tf+4Z/wCnS0r5Ti3/AJJ7Mf8ArzV/9IkfKcW/8k9mP/Xmr/6RI//ZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="/>
+        </image-list>
+    </map>
+</cmap>

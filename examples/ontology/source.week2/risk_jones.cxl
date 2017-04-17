@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <res-meta>
+        <dc:title>risk_jones.cmap</dc:title>
+        <dcterms:created>2009-09-25T11:18:35+08:00</dcterms:created>
+        <dcterms:modified>2009-09-25T11:18:35+08:00</dcterms:modified>
+        <dc:language>en</dc:language>
+        <dc:format>x-cmap/x-storable</dc:format>
+        <dc:publisher>FIHMC CmapTools 5.03</dc:publisher>
+        <dc:source>cmap:1GJ53BHFB-24DWJWB-1:external-folder:file:////d:/programming/conceptmap/cmap/risk/week2/risk_jones.cmap</dc:source>
+    </res-meta>
+    <map width="1013" height="528">
+        <concept-list>
+            <concept id="1236933497338_551880776_741" label="Cost"/>
+            <concept id="1236933430889_1651957139_658" label="Planning/Design"/>
+            <concept id="1236933877641_529224734_1043" label="Human Lives"/>
+            <concept id="1236934423097_1840568951_1587" label="Negligence"/>
+            <concept id="1236934302129_494010642_1477" label="Environmental"/>
+            <concept id="1236933775849_1212299907_978" label="Precaution"/>
+            <concept id="1236933575961_970857243_870" label="Money"/>
+            <concept id="1236934521833_1429839819_1735" label="Lack of Knowledge"/>
+            <concept id="1236934110745_1003633693_1274" label="Injury"/>
+            <concept id="1236933341297_1599018044_533" label="Probability"/>
+            <concept id="1236933614617_194359587_942" label="Reputation"/>
+            <concept id="1236934284097_118944550_1423" label="Human Factors"/>
+            <concept id="1236934399593_638885692_1534" label="Natural Disasters"/>
+            <concept id="1236932952964_130562302_169" label="Risk"/>
+            <concept id="1236934465457_1602689149_1665" label="Operations"/>
+            <concept id="1236933931753_991382606_1153" label="Reputation"/>
+            <concept id="1236933913801_2088435634_1118" label="Money"/>
+            <concept id="1236933567450_1640567400_845" label="Human Lives"/>
+            <concept id="1236934179529_1611736104_1331" label="Loss"/>
+            <concept id="1236934438681_219428507_1634" label="Poor Control"/>
+            <concept id="1236933391833_1418588067_610" label="Hazard"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="1236933391841_2010560843_613" label="of a"/>
+            <linking-phrase id="1236933989657_450242989_1225" label="Reduces the occurence of a"/>
+            <linking-phrase id="1236934423099_542474115_1590" label="Such as"/>
+            <linking-phrase id="1236933567456_1867659923_848" label="Such as"/>
+            <linking-phrase id="1236934284099_483260171_1426" label="caused by"/>
+            <linking-phrase id="1236933497348_1145365243_744" label="Represents to the business a"/>
+            <linking-phrase id="1236933877644_1618564578_1046" label="When conducted properly will save"/>
+            <linking-phrase id="1236934399596_349145498_1537" label="Such as"/>
+            <linking-phrase id="1236933341321_1626696136_536" label="is a"/>
+            <linking-phrase id="1236933430896_431727706_661" label="can be avoided by"/>
+            <linking-phrase id="1236933775852_578519811_981" label="can be lowered by taking"/>
+            <linking-phrase id="1236934110748_1520444025_1277" label="causes"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection id="1236933430903_1600219141_664" from-id="1236933391833_1418588067_610" to-id="1236933430896_431727706_661"/>
+            <connection id="1236934399598_612975129_1546" from-id="1236934399596_349145498_1537" to-id="1236934399593_638885692_1534"/>
+            <connection id="1236933877646_1889494083_1049" from-id="1236933430889_1651957139_658" to-id="1236933877644_1618564578_1046"/>
+            <connection id="1236934438683_1894829378_1637" from-id="1236934423099_542474115_1590" to-id="1236934438681_219428507_1634"/>
+            <connection id="1236934399598_1870585511_1540" from-id="1236934302129_494010642_1477" to-id="1236934399596_349145498_1537"/>
+            <connection id="1236933567467_725973203_851" from-id="1236933497338_551880776_741" to-id="1236933567456_1867659923_848"/>
+            <connection id="1236933430904_1616495939_670" from-id="1236933430896_431727706_661" to-id="1236933430889_1651957139_658"/>
+            <connection id="1236934284101_1939603835_1434" from-id="1236934284099_483260171_1426" to-id="1236934284097_118944550_1423"/>
+            <connection id="1236934423101_1608658356_1599" from-id="1236934423099_542474115_1590" to-id="1236934423097_1840568951_1587"/>
+            <connection id="1236933497355_388566924_747" from-id="1236933391833_1418588067_610" to-id="1236933497348_1145365243_744"/>
+            <connection id="1236933775854_2036087783_989" from-id="1236933775852_578519811_981" to-id="1236933775849_1212299907_978"/>
+            <connection id="1236934521835_1869725360_1738" from-id="1236934423099_542474115_1590" to-id="1236934521833_1429839819_1735"/>
+            <connection id="1236933877646_1560182102_1055" from-id="1236933877644_1618564578_1046" to-id="1236933877641_529224734_1043"/>
+            <connection id="1236933614624_359283913_945" from-id="1236933567456_1867659923_848" to-id="1236933614617_194359587_942"/>
+            <connection id="1236934110750_1228586595_1285" from-id="1236934110748_1520444025_1277" to-id="1236934110745_1003633693_1274"/>
+            <connection id="1236933391846_1238445491_616" from-id="1236933341297_1599018044_533" to-id="1236933391841_2010560843_613"/>
+            <connection id="1236934284101_1062618568_1429" from-id="1236932952964_130562302_169" to-id="1236934284099_483260171_1426"/>
+            <connection id="1236933567468_933579320_856" from-id="1236933567456_1867659923_848" to-id="1236933567450_1640567400_845"/>
+            <connection id="1236933391848_828661369_622" from-id="1236933391841_2010560843_613" to-id="1236933391833_1418588067_610"/>
+            <connection id="1236933989659_1346828547_1234" from-id="1236933989657_450242989_1225" to-id="1236933391833_1418588067_610"/>
+            <connection id="1236934110749_1152494651_1280" from-id="1236932952964_130562302_169" to-id="1236934110748_1520444025_1277"/>
+            <connection id="1236933913803_18681739_1121" from-id="1236933877644_1618564578_1046" to-id="1236933913801_2088435634_1118"/>
+            <connection id="1236934302131_1723056527_1480" from-id="1236934284099_483260171_1426" to-id="1236934302129_494010642_1477"/>
+            <connection id="1236933775854_249410426_984" from-id="1236932952964_130562302_169" to-id="1236933775852_578519811_981"/>
+            <connection id="1236934465459_758036320_1668" from-id="1236934423099_542474115_1590" to-id="1236934465457_1602689149_1665"/>
+            <connection id="1236933989658_1136012623_1228" from-id="1236933775849_1212299907_978" to-id="1236933989657_450242989_1225"/>
+            <connection id="1236933341330_354743056_540" from-id="1236932952964_130562302_169" to-id="1236933341321_1626696136_536"/>
+            <connection id="1236933497356_448486101_752" from-id="1236933497348_1145365243_744" to-id="1236933497338_551880776_741"/>
+            <connection id="1236933341332_28468015_546" from-id="1236933341321_1626696136_536" to-id="1236933341297_1599018044_533"/>
+            <connection id="1236934423101_916801074_1593" from-id="1236934284097_118944550_1423" to-id="1236934423099_542474115_1590"/>
+            <connection id="1236933931755_1062535194_1156" from-id="1236933877644_1618564578_1046" to-id="1236933931753_991382606_1153"/>
+            <connection id="1236933575967_2034093496_873" from-id="1236933567456_1867659923_848" to-id="1236933575961_970857243_870"/>
+            <connection id="1236934179531_1608841073_1334" from-id="1236934110748_1520444025_1277" to-id="1236934179529_1611736104_1331"/>
+        </connection-list>
+        <concept-appearance-list>
+            <concept-appearance id="1236933497338_551880776_741" x="754" y="123" width="43" height="25"/>
+            <concept-appearance id="1236933430889_1651957139_658" x="385" y="220" width="114" height="28"/>
+            <concept-appearance id="1236933877641_529224734_1043" x="287" y="94" width="94" height="25"/>
+            <concept-appearance id="1236934423097_1840568951_1587" x="382" y="284" width="82" height="28"/>
+            <concept-appearance id="1236934302129_494010642_1477" x="512" y="381" width="103" height="25"/>
+            <concept-appearance id="1236933775849_1212299907_978" x="928" y="385" width="79" height="25"/>
+            <concept-appearance id="1236933575961_970857243_870" x="808" y="43" width="55" height="27"/>
+            <concept-appearance id="1236934521833_1429839819_1735" x="135" y="349" width="129" height="28"/>
+            <concept-appearance id="1236934110745_1003633693_1274" x="650" y="275" width="53" height="27"/>
+            <concept-appearance id="1236933341297_1599018044_533" x="785" y="384" width="80" height="28"/>
+            <concept-appearance id="1236933614617_194359587_942" x="894" y="67" width="81" height="27"/>
+            <concept-appearance id="1236934284097_118944550_1423" x="357" y="381" width="107" height="25"/>
+            <concept-appearance id="1236934399593_638885692_1534" x="516" y="277" width="120" height="25"/>
+            <concept-appearance id="1236932952964_130562302_169" x="604" y="469" width="41" height="25"/>
+            <concept-appearance id="1236934465457_1602689149_1665" x="159" y="296" width="82" height="27"/>
+            <concept-appearance id="1236933931753_991382606_1153" x="479" y="94" width="81" height="27"/>
+            <concept-appearance id="1236933913801_2088435634_1118" x="383" y="71" width="55" height="27"/>
+            <concept-appearance id="1236933567450_1640567400_845" x="703" y="44" width="94" height="25"/>
+            <concept-appearance id="1236934179529_1611736104_1331" x="715" y="278" width="42" height="25"/>
+            <concept-appearance id="1236934438681_219428507_1634" x="270" y="284" width="91" height="25"/>
+            <concept-appearance id="1236933391833_1418588067_610" x="749" y="220" width="58" height="25"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase-appearance id="1236933391841_2010560843_613" x="784" y="340" width="25" height="11"/>
+            <linking-phrase-appearance id="1236933989657_450242989_1225" x="867" y="302" width="168" height="11"/>
+            <linking-phrase-appearance id="1236934423099_542474115_1590" x="352" y="345" width="49" height="11"/>
+            <linking-phrase-appearance id="1236933567456_1867659923_848" x="754" y="91" width="49" height="11" min-height="9"/>
+            <linking-phrase-appearance id="1236934284099_483260171_1426" x="510" y="459" width="63" height="14"/>
+            <linking-phrase-appearance id="1236933497348_1145365243_744" x="750" y="177" width="177" height="14"/>
+            <linking-phrase-appearance id="1236933877644_1618564578_1046" x="384" y="172" width="212" height="14"/>
+            <linking-phrase-appearance id="1236934399596_349145498_1537" x="512" y="333" width="49" height="11"/>
+            <linking-phrase-appearance id="1236933341321_1626696136_536" x="699" y="426" width="23" height="11"/>
+            <linking-phrase-appearance id="1236933430896_431727706_661" x="561" y="226" width="112" height="14"/>
+            <linking-phrase-appearance id="1236933775852_578519811_981" x="823" y="458" width="154" height="14"/>
+            <linking-phrase-appearance id="1236934110748_1520444025_1277" x="635" y="408" width="43" height="9"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance id="1236933430903_1600219141_664" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934399598_612975129_1546" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933877646_1889494083_1049" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934438683_1894829378_1637" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934399598_1870585511_1540" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933567467_725973203_851" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933430904_1616495939_670" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934284101_1939603835_1434" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934423101_1608658356_1599" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933497355_388566924_747" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933775854_2036087783_989" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934521835_1869725360_1738" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933877646_1560182102_1055" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933614624_359283913_945" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934110750_1228586595_1285" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933391846_1238445491_616" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934284101_1062618568_1429" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933567468_933579320_856" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933391848_828661369_622" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933989659_1346828547_1234" from-pos="center" to-pos="bottom-right"/>
+            <connection-appearance id="1236934110749_1152494651_1280" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933913803_18681739_1121" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934302131_1723056527_1480" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933775854_249410426_984" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934465459_758036320_1668" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933989658_1136012623_1228" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933341330_354743056_540" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933497356_448486101_752" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933341332_28468015_546" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934423101_916801074_1593" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933931755_1062535194_1156" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236933575967_2034093496_873" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1236934179531_1608841073_1334" from-pos="center" to-pos="center"/>
+        </connection-appearance-list>
+        <style-sheet-list>
+            <style-sheet id="_Default_">
+                <map-style background-color="255,255,255,0" image-style="full" image-top-left="0,0"/>
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" background-image-style="full" border-color="0,0,0,255" border-style="solid" border-thickness="1"
+                    border-shape="rounded-rectangle" text-alignment="center" shadow-color="none"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,0" border-style="solid" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+        </style-sheet-list>
+        <extra-graphical-properties-list>
+            <properties-list id="file:////d:/programming/conceptmap/cmap/risk/week2/risk_jones.cmap">
+                <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @"/>
+            </properties-list>
+        </extra-graphical-properties-list>
+    </map>
+</cmap>

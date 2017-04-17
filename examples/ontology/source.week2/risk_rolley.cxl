@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <res-meta>
+        <dc:title>risk_rolley.cmap</dc:title>
+        <dcterms:created>2009-09-25T11:36:10+08:00</dcterms:created>
+        <dcterms:modified>2009-09-25T11:36:10+08:00</dcterms:modified>
+        <dc:language>en</dc:language>
+        <dc:format>x-cmap/x-storable</dc:format>
+        <dc:publisher>FIHMC CmapTools 5.03</dc:publisher>
+        <dc:source>cmap:1GJ53BHFB-24DWJWB-1:external-folder:file:////d:/programming/conceptmap/cmap/risk/week2/risk_rolley.cmap</dc:source>
+    </res-meta>
+    <map width="848" height="659">
+        <concept-list>
+            <concept id="1237180284015_125447358_2103" label="toxic &#xa;materials"/>
+            <concept id="1237179836875_966315165_1528" label="safety procedures"/>
+            <concept id="1237180307625_2058528579_2139" label="radioactive&#xa;materials"/>
+            <concept id="1237179558687_1398511331_1327" label="probability of event"/>
+            <concept id="1237180147468_821434613_1911" label="stock market fluctuations"/>
+            <concept id="1237179923062_332100952_1690" label="communication"/>
+            <concept id="1237179866687_592338294_1583" label="personel traning"/>
+            <concept id="1237180386187_1412086352_2177" label="Ian Rolley&#xa;13379874"/>
+            <concept id="1237179419093_1887962786_1242" label="equipment"/>
+            <concept id="1237179616343_1886620700_1393" label="impact of event"/>
+            <concept id="1237179908421_938651866_1639" label="planning"/>
+            <concept id="1237180246906_2005499867_2041" label="highly flammable&#xa;materials"/>
+            <concept id="1237180110078_176465677_1875" label="poor planning/design"/>
+            <concept id="1237180220125_2099491190_2005" label="hazardous substances"/>
+            <concept id="1237180026187_1993343397_1739" label="environmental disasters"/>
+            <concept id="1237179354390_2142860065_1171" label="Risk"/>
+            <concept id="1237179915765_1699718176_1663" label="maintenance"/>
+            <concept id="1237179364406_1743072141_1188" label="workers"/>
+            <concept id="1237179428328_1268966026_1267" label="environment"/>
+            <concept id="1237180083859_1273981772_1824" label="corporate negligance"/>
+            <concept id="1237179442453_1822919303_1298" label="finances"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="1237179364421_1293221409_1191" label="can be impact upon"/>
+            <linking-phrase id="1237179558687_2087919965_1330" label="measured by"/>
+            <linking-phrase id="1237179866687_729280111_1586" label="such as"/>
+            <linking-phrase id="1237179769265_1141925894_1473" label="mitigated&#xa;by"/>
+            <linking-phrase id="1237180246906_596565474_2044" label="such as"/>
+            <linking-phrase id="1237180026187_584180324_1742" label="can be impacted by"/>
+            <linking-phrase id="1237179653562_315466922_1436" label="multipied&#xa;by"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection id="1237180307625_657680667_2142" from-id="1237180246906_596565474_2044" to-id="1237180307625_2058528579_2139"/>
+            <connection id="1237179442453_33350107_1301" from-id="1237179364421_1293221409_1191" to-id="1237179442453_1822919303_1298"/>
+            <connection id="1237179915765_178687613_1666" from-id="1237179866687_729280111_1586" to-id="1237179915765_1699718176_1663"/>
+            <connection id="1237180284015_1822768982_2106" from-id="1237180246906_596565474_2044" to-id="1237180284015_125447358_2103"/>
+            <connection id="1237179866687_1082644866_1589" from-id="1237179836875_966315165_1528" to-id="1237179866687_729280111_1586"/>
+            <connection id="1237179364421_1867110142_1201" from-id="1237179364421_1293221409_1191" to-id="1237179364406_1743072141_1188"/>
+            <connection id="1237179616343_1450143804_1396" from-id="1237179558687_2087919965_1330" to-id="1237179616343_1886620700_1393"/>
+            <connection id="1237179653562_715067661_1439" from-id="1237179616343_1886620700_1393" to-id="1237179653562_315466922_1436"/>
+            <connection id="1237179923062_291263001_1693" from-id="1237179866687_729280111_1586" to-id="1237179923062_332100952_1690"/>
+            <connection id="1237180026187_1777424378_1750" from-id="1237180026187_584180324_1742" to-id="1237180026187_1993343397_1739"/>
+            <connection id="1237180195671_1373130991_1987" from-id="1237180026187_584180324_1742" to-id="1237180147468_821434613_1911"/>
+            <connection id="1237179558687_276355663_1333" from-id="1237179354390_2142860065_1171" to-id="1237179558687_2087919965_1330"/>
+            <connection id="1237180246906_286442218_2053" from-id="1237180246906_596565474_2044" to-id="1237180246906_2005499867_2041"/>
+            <connection id="1237179836875_23275259_1531" from-id="1237179769265_1141925894_1473" to-id="1237179836875_966315165_1528"/>
+            <connection id="1237179419093_1096160506_1245" from-id="1237179364421_1293221409_1191" to-id="1237179419093_1887962786_1242"/>
+            <connection id="1237179908421_1728402883_1642" from-id="1237179866687_729280111_1586" to-id="1237179908421_938651866_1639"/>
+            <connection id="1237180110078_1225210911_1878" from-id="1237180026187_584180324_1742" to-id="1237180110078_176465677_1875"/>
+            <connection id="1237179364421_357204850_1195" from-id="1237179354390_2142860065_1171" to-id="1237179364421_1293221409_1191"/>
+            <connection id="1237179769265_651374464_1476" from-id="1237179354390_2142860065_1171" to-id="1237179769265_1141925894_1473"/>
+            <connection id="1237179653562_1713525143_1445" from-id="1237179653562_315466922_1436" to-id="1237179558687_1398511331_1327"/>
+            <connection id="1237180083859_596837122_1827" from-id="1237180026187_584180324_1742" to-id="1237180083859_1273981772_1824"/>
+            <connection id="1237179866687_293001258_1595" from-id="1237179866687_729280111_1586" to-id="1237179866687_592338294_1583"/>
+            <connection id="1237180026187_603263243_1745" from-id="1237179354390_2142860065_1171" to-id="1237180026187_584180324_1742"/>
+            <connection id="1237179428328_1797098243_1270" from-id="1237179364421_1293221409_1191" to-id="1237179428328_1268966026_1267"/>
+            <connection id="1237180220125_1346832385_2008" from-id="1237180026187_584180324_1742" to-id="1237180220125_2099491190_2005"/>
+            <connection id="1237180246906_824685231_2047" from-id="1237180220125_2099491190_2005" to-id="1237180246906_596565474_2044"/>
+            <connection id="1237179558687_150710972_1338" from-id="1237179558687_2087919965_1330" to-id="1237179558687_1398511331_1327"/>
+        </connection-list>
+        <concept-appearance-list>
+            <concept-appearance id="1237180284015_125447358_2103" x="261" y="588" width="72" height="40"/>
+            <concept-appearance id="1237179836875_966315165_1528" x="349" y="263" width="124" height="28"/>
+            <concept-appearance id="1237180307625_2058528579_2139" x="391" y="587" width="82" height="40"/>
+            <concept-appearance id="1237179558687_1398511331_1327" x="736" y="428" width="133" height="28"/>
+            <concept-appearance id="1237180147468_821434613_1911" x="220" y="456" width="169" height="25"/>
+            <concept-appearance id="1237179923062_332100952_1690" x="115" y="170" width="108" height="25"/>
+            <concept-appearance id="1237179866687_592338294_1583" x="298" y="115" width="115" height="28"/>
+            <concept-appearance id="1237180386187_1412086352_2177" x="671" y="590" width="108" height="48" font-size="16" font-style="bold" stylesheet-id="1236815044375_1309616096_147"/>
+            <concept-appearance id="1237179419093_1887962786_1242" x="664" y="228" width="80" height="27"/>
+            <concept-appearance id="1237179616343_1886620700_1393" x="462" y="452" width="110" height="28"/>
+            <concept-appearance id="1237179908421_938651866_1639" x="200" y="75" width="68" height="28"/>
+            <concept-appearance id="1237180246906_2005499867_2041" x="178" y="544" width="120" height="40"/>
+            <concept-appearance id="1237180110078_176465677_1875" x="207" y="413" width="144" height="28"/>
+            <concept-appearance id="1237180220125_2099491190_2005" x="325" y="494" width="149" height="25"/>
+            <concept-appearance id="1237180026187_1993343397_1739" x="246" y="322" width="161" height="25"/>
+            <concept-appearance id="1237179354390_2142860065_1171" x="500" y="350" width="54" height="28" font-size="16" font-style="bold"/>
+            <concept-appearance id="1237179915765_1699718176_1663" x="142" y="109" width="93" height="25"/>
+            <concept-appearance id="1237179364406_1743072141_1188" x="722" y="286" width="64" height="25"/>
+            <concept-appearance id="1237179428328_1268966026_1267" x="560" y="196" width="92" height="25"/>
+            <concept-appearance id="1237180083859_1273981772_1824" x="199" y="367" width="142" height="28"/>
+            <concept-appearance id="1237179442453_1822919303_1298" x="479" y="250" width="66" height="25"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase-appearance id="1237179364421_1293221409_1191" x="571" y="310" width="121" height="14"/>
+            <linking-phrase-appearance id="1237179558687_2087919965_1330" x="561" y="387" width="80" height="14"/>
+            <linking-phrase-appearance id="1237179866687_729280111_1586" x="275" y="225" width="47" height="11"/>
+            <linking-phrase-appearance id="1237179769265_1141925894_1473" x="433" y="313" width="59" height="28"/>
+            <linking-phrase-appearance id="1237180246906_596565474_2044" x="312" y="534" width="47" height="11"/>
+            <linking-phrase-appearance id="1237180026187_584180324_1742" x="404" y="370" width="120" height="14"/>
+            <linking-phrase-appearance id="1237179653562_315466922_1436" x="599" y="440" width="58" height="28"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance id="1237180307625_657680667_2142" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179442453_33350107_1301" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1237179915765_178687613_1666" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237180284015_1822768982_2106" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179866687_1082644866_1589" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179364421_1867110142_1201" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1237179616343_1450143804_1396" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179653562_715067661_1439" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179923062_291263001_1693" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237180026187_1777424378_1750" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237180195671_1373130991_1987" from-pos="center" to-pos="top-right" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179558687_276355663_1333" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1237180246906_286442218_2053" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179836875_23275259_1531" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179419093_1096160506_1245" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1237179908421_1728402883_1642" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237180110078_1225210911_1878" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179364421_357204850_1195" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1237179769265_651374464_1476" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179653562_1713525143_1445" from-pos="center" to-pos="bottom-left" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237180083859_596837122_1827" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179866687_293001258_1595" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237180026187_603263243_1745" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179428328_1797098243_1270" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1237180220125_1346832385_2008" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237180246906_824685231_2047" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1237179558687_150710972_1338" from-pos="bottom" to-pos="center"/>
+        </connection-appearance-list>
+        <style-sheet-list>
+            <style-sheet id="_Default_">
+                <map-style background-color="255,255,255,0" image-style="full" image-top-left="0,0"/>
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" background-image-style="full" border-color="0,0,0,255" border-style="solid" border-thickness="1"
+                    border-shape="rounded-rectangle" text-alignment="center" shadow-color="none"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,0" border-style="solid" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="_LatestChanges_">
+                <concept-style font-size="16" font-style="bold"/>
+                <connection-style arrowhead="if-to-concept"/>
+            </style-sheet>
+            <style-sheet id="1236815044375_1309616096_147">
+                <map-style background-color="255,255,255,0" image-style="full" image-top-left="0,0"/>
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" background-image-style="full" border-color="0,0,0,255" border-style="solid" border-thickness="1"
+                    border-shape="rounded-rectangle" text-alignment="center" shadow-color="none"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,0" border-style="solid" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+        </style-sheet-list>
+        <extra-graphical-properties-list>
+            <properties-list id="file:////d:/programming/conceptmap/cmap/risk/week2/risk_rolley.cmap">
+                <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @"/>
+            </properties-list>
+        </extra-graphical-properties-list>
+    </map>
+</cmap>
